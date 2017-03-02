@@ -63,7 +63,7 @@ public class Quest {
 					yes = true;
 				}
 			} else if (input.toLowerCase().equals("n")) {
-				System.out.println("Sorry to hear that!");
+				System.out.println("Sorry to hear that today!");
 				yes = true;
 			} else {
 
